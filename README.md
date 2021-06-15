@@ -1,11 +1,9 @@
 # Candidate Selection
 
-Jupyter notebook which contains exploratory data analysis 
+The Jupyter notebook objective is to make an exploratory data analysis and then predict the success or failure of job applicatations.
 
-The dataset contained in dataset.csv describes job applications. 
-The Jupyter notebook objective is to make an exploratory data analysis and then predict the success or failure of an application.
-
-The dataset (in French) has 11 columns :
+The dataset (in French) contained in dataset.csv describes job applications. 
+It contains 11 columns :
 
 - date - date of application
 - age - age of the candidate
